@@ -1,19 +1,17 @@
 [
 	{
-		"id":"1",
 		"title":"Lord of the rings",
 		"author":"John Ronald Reuel Tolkien, Christopher Tolkien",
 		"genre":"High fantasy Adventure"
 	},
 	{
-		"id":"2",
+		
 		"title":"BAD BLOOD",
 		"author":"John Carreyrou",
 		"genre":"True crime"
 	},
 	
 	{
-		"id":"3",
 		"title":"Kobzar",
 		"author":"Taras Shevchenko",
 		"genre":"Poetry collection"
