@@ -9,4 +9,4 @@ Years of Experience (Regressor)  Annual Salary (Regressant)
 7                                                   75,000
 8                                                   80,000
 9                                                   85,000
-10 								    90,000
+10 								                                  90,000
